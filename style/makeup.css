@@ -1,7 +1,43 @@
 .blog {
+  background-color: rgb(15, 177, 231);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px pink;
+}
+
+.header {
   background-color: lightblue;
   padding: 20px;
   margin: 20px;
   border-radius: 10px;
   box-shadow: 10px 10px 20px pink;
+
+  background-image: url("../images/itachi.jpg");
+  height: 100px;
+  width: auto;
+
+  /*background-size: cover;
+    background-position: center;
+  
+  background-repeat: no-repeat;
+  background-size: 100% auto;*/
+  background-repeat: repeat-x;
+  box-shadow: 10px 10px 20px rgb(193, 223, 125);
+}
+.div {
+  background-color: rgb(141, 211, 236);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgb(193, 223, 125);
+  font-family: "Times New Roman", Times, serif;
+}
+#list {
+  background-color: rgb(141, 211, 236);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgb(193, 223, 125);
+  font-family: "Times New Roman", Times, serif;
 }
